@@ -117,7 +117,7 @@ const userStore = useUserConnectStore()
 
 definePageMeta({
   layout: false,
-  middleware: ['auth']
+  //middleware: ['auth']
 })
 onMounted(async () => {
   projectStore.currentProject
