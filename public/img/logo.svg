@@ -1,0 +1,15 @@
+<svg width="260" height="60" viewBox="0 0 260 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon -->
+  <g transform="translate(0,10)">
+    <polygon points="10,10 30,0 40,10 20,20" fill="#ff0000"/>
+    <polygon points="20,25 40,15 45,30 25,40" fill="#ff0000"/>
+    <polygon points="5,25 15,40 0,35 0,20" fill="#ff0000"/>
+  </g>
+
+  <!-- Text -->
+  <text x="60" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+    <tspan fill="#ffffff">JHON</tspan>
+    <tspan fill="#cccccc"> PIECES </tspan>
+    <tspan fill="#ff0000">AUTO</tspan>
+  </text>
+</svg>

@@ -1,0 +1,34 @@
+{
+    "indicateurs_1" : {
+        "concessions":20,
+        "superficie_total":10,
+        "superficie_exploite":7,
+        "superficie_boisee":4
+    },
+    "indicateurs_2" : {
+        "kinshasa" : {
+            "concessions":7,
+            "superficie_total":5,
+            "superficie_exploite":3,
+            "superficie_boisee":1
+        },
+        "kongo-centrale" : {
+            "concessions":4,
+            "superficie_total":2,
+            "superficie_exploite":2,
+            "superficie_boisee":1
+        },
+        "haut-katanga" : {
+            "concessions":5,
+            "superficie_total":2,
+            "superficie_exploite":1,
+            "superficie_boisee":1
+        },
+        "equateur" : {
+            "concessions":4,
+            "superficie_total":1,
+            "superficie_exploite":1,
+            "superficie_boisee":1
+        }
+    }
+}

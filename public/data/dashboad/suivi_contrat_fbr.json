@@ -1,0 +1,34 @@
+{
+    "indicateurs_1" : {
+        "contrats":4,
+        "montant_total":8000000,
+        "projets_retenu":6000000,
+        "contrats_fbr":2000000
+    },
+    "indicateurs_2" : {
+        "kinshasa" : {
+            "contrats":1,
+            "montant_total":3000000,
+            "projets_retenu":2500000,
+            "contrats_fbr":500000
+        },
+        "kongo-centrale" : {
+            "contrats":1,
+            "montant_total":1500000,
+            "projets_retenu":1000000,
+            "contrats_fbr":500000
+        },
+        "haut-katanga" : {
+            "contrats":1,
+            "montant_total":2500000,
+            "projets_retenu":2000000,
+            "contrats_fbr":500000
+        },
+        "equateur" : {
+            "contrats":1,
+            "montant_total":1000000,
+            "projets_retenu":500000,
+            "contrats_fbr":500000
+        }
+    }
+}

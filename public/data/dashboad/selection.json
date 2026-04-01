@@ -1,0 +1,34 @@
+{
+    "indicateurs_1" : {
+        "projets_soumis":20,
+        "projets_preselections":10,
+        "projets_rejettes":16,
+        "projets_selections":4
+    },
+    "indicateurs_2" : {
+        "kinshasa" : {
+            "projets_soumis":7,
+            "projets_preselections":5,
+            "projets_rejettes":6,
+            "projets_selections":1
+        },
+        "kongo-centrale" : {
+            "projets_soumis":4,
+            "projets_preselections":2,
+            "projets_rejettes":3,
+            "projets_selections":1
+        },
+        "haut-katanga" : {
+            "projets_soumis":5,
+            "projets_preselections":2,
+            "projets_rejettes":4,
+            "projets_selections":1
+        },
+        "equateur" : {
+            "projets_soumis":4,
+            "projets_preselections":1,
+            "projets_rejettes":3,
+            "projets_selections":1
+        }
+    }
+}

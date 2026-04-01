@@ -1,0 +1,34 @@
+{
+    "indicateurs_1" : {
+        "enregistrements":20,
+        "superficie_total":10,
+        "superficie_exploite":7,
+        "superficie_boisee":4
+    },
+    "indicateurs_2" : {
+        "kinshasa" : {
+            "enregistrements":7,
+            "superficie_total":5,
+            "superficie_exploite":3,
+            "superficie_boisee":1
+        },
+        "kongo-centrale" : {
+            "enregistrements":4,
+            "superficie_total":2,
+            "superficie_exploite":2,
+            "superficie_boisee":1
+        },
+        "haut-katanga" : {
+            "enregistrements":5,
+            "superficie_total":2,
+            "superficie_exploite":1,
+            "superficie_boisee":1
+        },
+        "equateur" : {
+            "enregistrements":4,
+            "superficie_total":1,
+            "superficie_exploite":1,
+            "superficie_boisee":1
+        }
+    }
+}

@@ -1,0 +1,474 @@
+[
+    {
+    "id":"c1a11111-1111-4111-8111-0001",
+    "nom":"Mavungu",
+    "postnom":"Banza",
+    "prenom":"Jean",
+    "date_naissance":"1975-05-10",
+    "lieu_naissance":"Kisantu",
+    "adresse":"Kisantu centre",
+    "numero_carte_identite":"ID123456",
+    "copie_carte_identite":"files/id_mavungu.jpg",
+    "photo_personne":"files/photo_mavungu.jpg",
+    "sexe":"HOMME",
+    
+    "nom_concession":"Conservation Jardin Botanique Kisantu",
+    "date_acquisition":"2015-04-01",
+    "village_avenue":"Kisantu",
+    "secteur_quartier":"Madimba",
+    
+    "province_id":2,
+    "territoire_id":5,
+    
+    "superficie_globale_ha":225,
+    "superficie_exploitee_ha":120,
+    "superficie_non_exploitee_ha":105,
+    
+    "arbres_exploites":["ARBRE_FRUITIER","BOIS_OEUVRE"],
+    "cultures_associees":["LEGUMES","TUBERCULE"],
+    
+    "geom":"MULTIPOLYGON(((15.081 -5.132,15.083 -5.132,15.083 -5.130,15.081 -5.130,15.081 -5.132)))",
+    "geom_point":"POINT(15.082 -5.131)",
+    
+    "carte_numerique":"https://maps.google.com/kisantu",
+    
+    "accessibilite":"ACCESSIBLE",
+    
+    "reference_proche":"Route Kisantu-Mbanza",
+    "distance_reference":2.3,
+    
+    "acte_vente":false,
+    "fiche_parcellaire":true,
+    "certificat_amphitheose":false,
+    "contrat_location":false,
+    "certificat_enregistrement":true,
+    "autres_documents":"Plan cadastral",
+    
+    "objectif_economique":"COMMERCE",
+    
+    "source_intrants":["LOCAL","NATIONAL"],
+    
+    "montant_global_usd":120000,
+    "investissement_propre_usd":40000,
+    "pret_actuel_usd":20000,
+    "subvention_actuelle_usd":30000,
+    "financement_solicite_usd":30000,
+    
+    "nombre_arbre_min_100_ha":1000,
+    "nombre_total_arbre":3500,
+    "nombre_arbre_prevu":5000,
+    
+    "production_agroforesterie":65.5,
+    "production_culture":4.5,
+    
+    "projection_agroforesterie":120,
+    "projection_culture":7.5,
+    
+    "utilisateur_id":1
+    },
+    
+    {
+    "id":"c2a22222-2222-4222-8222-0002",
+    "nom":"Boloko",
+    "postnom":"Lokasa",
+    "prenom":"Joseph",
+    "date_naissance":"1968-03-15",
+    "lieu_naissance":"Mbandaka",
+    "adresse":"Mbandaka Eala",
+    "numero_carte_identite":"ID223456",
+    "copie_carte_identite":"files/id_boloko.jpg",
+    "photo_personne":"files/photo_boloko.jpg",
+    "sexe":"HOMME",
+    
+    "nom_concession":"Parcelle conservation Jardin Botanique Eala",
+    "date_acquisition":"2012-06-12",
+    "village_avenue":"Eala",
+    "secteur_quartier":"Mbandaka",
+    
+    "province_id":6,
+    "territoire_id":11,
+    
+    "superficie_globale_ha":370,
+    "superficie_exploitee_ha":200,
+    "superficie_non_exploitee_ha":170,
+    
+    "arbres_exploites":["ACACIA","BOIS_OEUVRE"],
+    "cultures_associees":["LEGUMINEUSES"],
+    
+    "geom":"MULTIPOLYGON(((18.270 -0.040,18.272 -0.040,18.272 -0.038,18.270 -0.038,18.270 -0.040)))",
+    "geom_point":"POINT(18.271 -0.039)",
+    
+    "carte_numerique":"https://maps.google.com/eala",
+    
+    "accessibilite":"ACCESSIBLE",
+    
+    "reference_proche":"Fleuve Congo",
+    "distance_reference":1.5,
+    
+    "acte_vente":false,
+    "fiche_parcellaire":true,
+    "certificat_amphitheose":false,
+    "contrat_location":false,
+    "certificat_enregistrement":true,
+    "autres_documents":"Plan topographique",
+    
+    "objectif_economique":"AUTOSUBSISTANCE",
+    
+    "source_intrants":["LOCAL"],
+    
+    "montant_global_usd":200000,
+    "investissement_propre_usd":60000,
+    "pret_actuel_usd":50000,
+    "subvention_actuelle_usd":50000,
+    "financement_solicite_usd":40000,
+    
+    "nombre_arbre_min_100_ha":1200,
+    "nombre_total_arbre":6000,
+    "nombre_arbre_prevu":8000,
+    
+    "production_agroforesterie":75,
+    "production_culture":3,
+    
+    "projection_agroforesterie":150,
+    "projection_culture":6,
+    
+    "utilisateur_id":1
+    },
+    
+    {
+    "id":"c3a33333-3333-4333-8333-0003",
+    "nom":"Mutombo",
+    "postnom":"Kiala",
+    "prenom":"Patrick",
+    "date_naissance":"1980-08-11",
+    "lieu_naissance":"Kinshasa",
+    "adresse":"Gombe",
+    "numero_carte_identite":"ID323456",
+    "copie_carte_identite":"files/id_mutombo.jpg",
+    "photo_personne":"files/photo_mutombo.jpg",
+    "sexe":"HOMME",
+    
+    "nom_concession":"Espace vert Jardin Botanique Kinshasa",
+    "date_acquisition":"2018-01-20",
+    "village_avenue":"Gombe",
+    "secteur_quartier":"Centre",
+    
+    "province_id":1,
+    "territoire_id":1,
+    
+    "superficie_globale_ha":8,
+    "superficie_exploitee_ha":5,
+    "superficie_non_exploitee_ha":3,
+    
+    "arbres_exploites":["ARBRE_FRUITIER"],
+    "cultures_associees":["LEGUMES"],
+    
+    "geom":"MULTIPOLYGON(((15.300 -4.310,15.301 -4.310,15.301 -4.309,15.300 -4.309,15.300 -4.310)))",
+    "geom_point":"POINT(15.3005 -4.3095)",
+    
+    "carte_numerique":"https://maps.google.com/botanic_kin",
+    
+    "accessibilite":"TRES_ACCESSIBLE",
+    
+    "reference_proche":"Boulevard du 30 Juin",
+    "distance_reference":0.5,
+    
+    "acte_vente":false,
+    "fiche_parcellaire":true,
+    "certificat_amphitheose":false,
+    "contrat_location":false,
+    "certificat_enregistrement":true,
+    "autres_documents":"Autorisation municipale",
+    
+    "objectif_economique":"COMMERCE",
+    
+    "source_intrants":["LOCAL","NATIONAL"],
+    
+    "montant_global_usd":50000,
+    "investissement_propre_usd":20000,
+    "pret_actuel_usd":5000,
+    "subvention_actuelle_usd":15000,
+    "financement_solicite_usd":10000,
+    
+    "nombre_arbre_min_100_ha":800,
+    "nombre_total_arbre":1200,
+    "nombre_arbre_prevu":2000,
+    
+    "production_agroforesterie":40,
+    "production_culture":5,
+    
+    "projection_agroforesterie":70,
+    "projection_culture":8,
+    
+    "utilisateur_id":1
+    },
+    
+    {
+    "id":"c4a44444-4444-4444-8444-0004",
+    "nom":"Kabeya",
+    "postnom":"Mulumba",
+    "prenom":"Daniel",
+    "date_naissance":"1972-11-05",
+    "lieu_naissance":"Lubumbashi",
+    "adresse":"Lubumbashi centre",
+    "numero_carte_identite":"ID423456",
+    "copie_carte_identite":"files/id_kabeya.jpg",
+    "photo_personne":"files/photo_kabeya.jpg",
+    "sexe":"HOMME",
+    
+    "nom_concession":"Conservation Jardin Botanique Lubumbashi",
+    "date_acquisition":"2014-09-15",
+    "village_avenue":"Lubumbashi",
+    "secteur_quartier":"Annexe",
+    
+    "province_id":8,
+    "territoire_id":20,
+    
+    "superficie_globale_ha":40,
+    "superficie_exploitee_ha":25,
+    "superficie_non_exploitee_ha":15,
+    
+    "arbres_exploites":["ACACIA","BOIS_OEUVRE"],
+    "cultures_associees":["LEGUMINEUSES","TUBERCULE"],
+    
+    "geom":"MULTIPOLYGON(((27.480 -11.660,27.482 -11.660,27.482 -11.658,27.480 -11.658,27.480 -11.660)))",
+    "geom_point":"POINT(27.481 -11.659)",
+    
+    "carte_numerique":"https://maps.google.com/lubumbashi_botanic",
+    
+    "accessibilite":"ACCESSIBLE",
+    
+    "reference_proche":"Université de Lubumbashi",
+    "distance_reference":3.2,
+    
+    "acte_vente":false,
+    "fiche_parcellaire":true,
+    "certificat_amphitheose":false,
+    "contrat_location":false,
+    "certificat_enregistrement":true,
+    "autres_documents":"Plan cadastral",
+    
+    "objectif_economique":"COMMERCE",
+    
+    "source_intrants":["LOCAL"],
+    
+    "montant_global_usd":80000,
+    "investissement_propre_usd":30000,
+    "pret_actuel_usd":15000,
+    "subvention_actuelle_usd":20000,
+    "financement_solicite_usd":15000,
+    
+    "nombre_arbre_min_100_ha":1000,
+    "nombre_total_arbre":2500,
+    "nombre_arbre_prevu":4000,
+    
+    "production_agroforesterie":60,
+    "production_culture":4,
+    
+    "projection_agroforesterie":110,
+    "projection_culture":6,
+    
+    "utilisateur_id":1
+    },
+    
+    {
+    "id":"c5a55555-5555-4555-8555-0005",
+    "nom":"Mavungu",
+    "postnom":"Nkosi",
+    "prenom":"Simon",
+    "date_naissance":"1984-02-14",
+    "lieu_naissance":"Mbanza-Ngungu",
+    "adresse":"Kimpese",
+    "numero_carte_identite":"ID523456",
+    "copie_carte_identite":"files/id_simon.jpg",
+    "photo_personne":"files/photo_simon.jpg",
+    "sexe":"HOMME",
+    
+    "nom_concession":"Plantation Agroforestière Kimpese",
+    "date_acquisition":"2019-05-20",
+    "village_avenue":"Kimpese",
+    "secteur_quartier":"Madimba",
+    
+    "province_id":2,
+    "territoire_id":7,
+    
+    "superficie_globale_ha":120,
+    "superficie_exploitee_ha":80,
+    "superficie_non_exploitee_ha":40,
+    
+    "arbres_exploites":["ACACIA","ARBRE_FRUITIER"],
+    "cultures_associees":["LEGUMES","LEGUMINEUSES"],
+    
+    "geom":"MULTIPOLYGON(((15.060 -5.030,15.062 -5.030,15.062 -5.028,15.060 -5.028,15.060 -5.030)))",
+    "geom_point":"POINT(15.061 -5.029)",
+    
+    "carte_numerique":"https://maps.google.com/kimpese",
+    
+    "accessibilite":"ACCESSIBLE",
+    
+    "reference_proche":"Route Matadi",
+    "distance_reference":5,
+    
+    "acte_vente":true,
+    "fiche_parcellaire":true,
+    "certificat_amphitheose":false,
+    "contrat_location":false,
+    "certificat_enregistrement":true,
+    
+    "objectif_economique":"COMMERCE",
+    
+    "source_intrants":["LOCAL","NATIONAL"],
+    
+    "montant_global_usd":70000,
+    "investissement_propre_usd":25000,
+    "pret_actuel_usd":15000,
+    "subvention_actuelle_usd":10000,
+    "financement_solicite_usd":20000,
+    
+    "nombre_arbre_min_100_ha":1000,
+    "nombre_total_arbre":4000,
+    "nombre_arbre_prevu":6000,
+    
+    "production_agroforesterie":50,
+    "production_culture":6,
+    
+    "projection_agroforesterie":95,
+    "projection_culture":9,
+    
+    "utilisateur_id":1
+    },
+    
+    {
+    "id":"c6a66666-6666-4666-8666-0006",
+    "nom":"Mbala",
+    "postnom":"Kalenga",
+    "prenom":"Sarah",
+    "date_naissance":"1990-06-09",
+    "lieu_naissance":"Kananga",
+    "adresse":"Kananga centre",
+    "numero_carte_identite":"ID623456",
+    "copie_carte_identite":"files/id_sarah.jpg",
+    "photo_personne":"files/photo_sarah.jpg",
+    "sexe":"FEMME",
+    
+    "nom_concession":"Ferme AgroForestière Kasaï",
+    "date_acquisition":"2020-03-11",
+    "village_avenue":"Lukonga",
+    "secteur_quartier":"Kananga",
+    
+    "province_id":9,
+    "territoire_id":21,
+    
+    "superficie_globale_ha":90,
+    "superficie_exploitee_ha":60,
+    "superficie_non_exploitee_ha":30,
+    
+    "arbres_exploites":["ACACIA"],
+    "cultures_associees":["TUBERCULE","LEGUMINEUSES"],
+    
+    "geom":"MULTIPOLYGON(((22.420 -5.880,22.422 -5.880,22.422 -5.878,22.420 -5.878,22.420 -5.880)))",
+    "geom_point":"POINT(22.421 -5.879)",
+    
+    "carte_numerique":"https://maps.google.com/kananga_ferme",
+    
+    "accessibilite":"PAS_ACCESSIBLE",
+    
+    "reference_proche":"Route nationale 1",
+    "distance_reference":8,
+    
+    "acte_vente":true,
+    "fiche_parcellaire":true,
+    "certificat_amphitheose":false,
+    "contrat_location":false,
+    "certificat_enregistrement":true,
+    
+    "objectif_economique":"AUTOSUBSISTANCE",
+    
+    "source_intrants":["LOCAL"],
+    
+    "montant_global_usd":40000,
+    "investissement_propre_usd":15000,
+    "pret_actuel_usd":5000,
+    "subvention_actuelle_usd":5000,
+    "financement_solicite_usd":15000,
+    
+    "nombre_arbre_min_100_ha":900,
+    "nombre_total_arbre":2500,
+    "nombre_arbre_prevu":4500,
+    
+    "production_agroforesterie":45,
+    "production_culture":7,
+    
+    "projection_agroforesterie":85,
+    "projection_culture":10,
+    
+    "utilisateur_id":1
+    },
+    
+    {
+    "id":"c7a77777-7777-4777-8777-0007",
+    "nom":"Mukendi",
+    "postnom":"Kabongo",
+    "prenom":"David",
+    "date_naissance":"1985-09-17",
+    "lieu_naissance":"Bukavu",
+    "adresse":"Bukavu centre",
+    "numero_carte_identite":"ID723456",
+    "copie_carte_identite":"files/id_david.jpg",
+    "photo_personne":"files/photo_david.jpg",
+    "sexe":"HOMME",
+    
+    "nom_concession":"Plantation AgroForestière Sud-Kivu",
+    "date_acquisition":"2017-07-07",
+    "village_avenue":"Kadutu",
+    "secteur_quartier":"Bukavu",
+    
+    "province_id":10,
+    "territoire_id":22,
+    
+    "superficie_globale_ha":150,
+    "superficie_exploitee_ha":100,
+    "superficie_non_exploitee_ha":50,
+    
+    "arbres_exploites":["BOIS_OEUVRE","ARBRE_FRUITIER"],
+    "cultures_associees":["LEGUMES","LEGUMINEUSES"],
+    
+    "geom":"MULTIPOLYGON(((28.860 -2.500,28.862 -2.500,28.862 -2.498,28.860 -2.498,28.860 -2.500)))",
+    "geom_point":"POINT(28.861 -2.499)",
+    
+    "carte_numerique":"https://maps.google.com/bukavu_plantation",
+    
+    "accessibilite":"ACCESSIBLE",
+    
+    "reference_proche":"Lac Kivu",
+    "distance_reference":4,
+    
+    "acte_vente":true,
+    "fiche_parcellaire":true,
+    "certificat_amphitheose":false,
+    "contrat_location":false,
+    "certificat_enregistrement":true,
+    
+    "objectif_economique":"COMMERCE",
+    
+    "source_intrants":["LOCAL","INTERNATIONAL"],
+    
+    "montant_global_usd":95000,
+    "investissement_propre_usd":30000,
+    "pret_actuel_usd":20000,
+    "subvention_actuelle_usd":20000,
+    "financement_solicite_usd":25000,
+    
+    "nombre_arbre_min_100_ha":1100,
+    "nombre_total_arbre":5000,
+    "nombre_arbre_prevu":8000,
+    
+    "production_agroforesterie":70,
+    "production_culture":6,
+    
+    "projection_agroforesterie":130,
+    "projection_culture":9,
+    
+    "utilisateur_id":1
+    }
+    ]

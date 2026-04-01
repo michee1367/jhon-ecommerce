@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900">
+  <defs>
+    <style>
+      .title { font: 700 34px Arial, Helvetica, sans-serif; fill: #182433; }
+      .center { font: 700 20px Arial, Helvetica, sans-serif; fill: #ffffff; }
+      .label { font: 600 15px Arial, Helvetica, sans-serif; fill: #ffffff; }
+      .line { stroke: #667382; stroke-width: 2; }
+
+      .main { fill: #D10F1B; }
+      .green { fill: #2fb344; }
+      .blue { fill: #4299e1; }
+      .dark { fill: #182433; }
+      .orange { fill: #f76707; }
+      .purple { fill: #4263eb; }
+    </style>
+  </defs>
+
+  <!-- Title -->
+  <text x="700" y="60" text-anchor="middle" class="title">
+    Développement Durable Africain et Transformation Sociale
+  </text>
+
+  <!-- Central Node -->
+  <circle cx="700" cy="450" r="95" class="main"/>
+  <text x="700" y="445" text-anchor="middle" class="center">Développement</text>
+  <text x="700" y="472" text-anchor="middle" class="center">Durable</text>
+
+  <!-- Reboisement -->
+  <line x1="700" y1="355" x2="700" y2="230" class="line"/>
+  <circle cx="700" cy="190" r="65" class="green"/>
+  <text x="700" y="195" text-anchor="middle" class="label">Reboisement</text>
+
+  <!-- Agriculture -->
+  <line x1="785" y1="405" x2="915" y2="335" class="line"/>
+  <circle cx="980" cy="300" r="65" class="green"/>
+  <text x="980" y="305" text-anchor="middle" class="label">Agriculture</text>
+
+  <!-- Energy -->
+  <line x1="785" y1="495" x2="915" y2="565" class="line"/>
+  <circle cx="980" cy="600" r="65" class="blue"/>
+  <text x="980" y="605" text-anchor="middle" class="label">Énergie</text>
+
+  <!-- Water -->
+  <line x1="700" y1="545" x2="700" y2="670" class="line"/>
+  <circle cx="700" cy="710" r="65" class="blue"/>
+  <text x="700" y="715" text-anchor="middle" class="label">Eau</text>
+
+  <!-- Women and Children -->
+  <line x1="615" y1="495" x2="485" y2="565" class="line"/>
+  <circle cx="420" cy="600" r="65" class="purple"/>
+  <text x="420" y="595" text-anchor="middle" class="label">Femmes</text>
+  <text x="420" y="618" text-anchor="middle" class="label">et Enfants</text>
+
+  <!-- Construction -->
+  <line x1="615" y1="405" x2="485" y2="335" class="line"/>
+  <circle cx="420" cy="300" r="65" class="orange"/>
+  <text x="420" y="305" text-anchor="middle" class="label">Construction</text>
+
+  <!-- Digital -->
+  <line x1="700" y1="450" x2="1080" y2="450" class="line"/>
+  <circle cx="1150" cy="450" r="65" class="dark"/>
+  <text x="1150" y="445" text-anchor="middle" class="label">Numérique</text>
+  <text x="1150" y="468" text-anchor="middle" class="label">Innovation</text>
+
+  <!-- Human Illustration (symbolic) -->
+  <!-- Woman -->
+  <circle cx="350" cy="720" r="18" fill="#182433"/>
+  <rect x="332" y="740" width="36" height="55" rx="8" fill="#4263eb"/>
+
+  <!-- Child -->
+  <circle cx="390" cy="735" r="14" fill="#182433"/>
+  <rect x="378" y="750" width="24" height="40" rx="6" fill="#74b816"/>
+
+</svg>

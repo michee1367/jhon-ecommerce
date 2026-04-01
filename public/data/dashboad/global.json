@@ -1,0 +1,39 @@
+{
+    "indicateurs_1" : {
+        "promoteurs":20,
+        "concessions":10,
+        "projets_retenu":7,
+        "contrats_fbr":4
+    },
+    "indicateurs_2" : {
+        "montants":8000000,
+        "superficie_total":13000,
+        "plaintes_recus":17
+    },
+    "indicateurs_3" : {
+        "kinshasa" : {
+            "promoteurs":7,
+            "concessions":5,
+            "projets_retenu":3,
+            "contrats_fbr":1
+        },
+        "kongo-centrale" : {
+            "promoteurs":4,
+            "concessions":2,
+            "projets_retenu":2,
+            "contrats_fbr":1
+        },
+        "haut-katanga" : {
+            "promoteurs":5,
+            "concessions":2,
+            "projets_retenu":1,
+            "contrats_fbr":1
+        },
+        "equateur" : {
+            "promoteurs":4,
+            "concessions":1,
+            "projets_retenu":1,
+            "contrats_fbr":1
+        }
+    }
+}
